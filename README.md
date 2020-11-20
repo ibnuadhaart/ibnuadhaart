@@ -3,7 +3,6 @@
 Selamat datang di Akun Github Saya.
 <h1 align="center">Hi 👋, Saya Ibnu Adha</h1>
 <h3 align="center">A Fullstack Web Developer, Play Store Developer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marzukiberg" alt="marzukiberg" /> </p>
 
 - 🌱 I’m currently learning **ReactJS and Kotlin**
 
