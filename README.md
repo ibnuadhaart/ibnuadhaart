@@ -1,4 +1,4 @@
-# Ibnuadhaart
+# Ibnu Syifa Takbir Adha
 
 Selamat datang di Akun Github Saya.
 <h1 align="center">Hi 👋, Saya Ibnu Adha</h1>
