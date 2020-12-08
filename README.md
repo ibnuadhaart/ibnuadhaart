@@ -1,7 +1,7 @@
 # Ibnu Syifa Takbir Adha
 
 Selamat datang di Akun Github Saya.
-<h1 align="center">Hi 👋, Saya Ibnu Adha</h1>
+<h1 align="center">Hi 👋, Saya Ibnu</h1>
 <h3 align="center">A Fullstack Web Developer, Play Store Developer.</h3>
 
 - 🌱 I’m currently learning **ReactJS and Kotlin**
@@ -37,10 +37,10 @@ Selamat datang di Akun Github Saya.
   
 ### Kontak Saya Di
 <hr/>
-<a href="https://www.instagram.com/ibnuadha_00/">
+<a href="https://www.instagram.com/ibnustagnz/">
   <img align="left" alt="Ibnu Adha | Instagram " width="40px" src="https://1.bp.blogspot.com/-ivwzE-L666s/XruUfFY_ErI/AAAAAAAAAsE/p9NMU38iXScU-oXDjtdH4EripC0XnX3qACLcBGAsYHQ/s1600/IG%2BIcon.png" />
 </a>
-<a href="https://www.facebook.com/ibnuadhaart">
+<a href="https://www.facebook.com/ibnustagnz">
   <img align="left" alt="Ibnu Adha | Facebook" width="40px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=6289515256233">
