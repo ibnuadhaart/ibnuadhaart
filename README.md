@@ -16,7 +16,7 @@ Selamat datang di Akun Github Saya.
 
 - ⚡ Fun fact **I'm an Coding Enthusiast**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnuadhaart&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnustagnz&show_icons=true)
 
 ### Keahlian Saya
 
