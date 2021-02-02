@@ -1,5 +1,17 @@
 # Ibnu Syifa Takbir Adha
-
+```python
+class myGoal:
+  def __init__(self, goal):
+    self.goal = goal
+    self.money = null
+    self.reputation = null
+    
+  def exec():
+    pass
+  
+if __name__ == '__main__':
+  me = myGoal()
+```
 Selamat datang di Akun Github Saya.
 <h1 align="center">Hi 👋, Saya Ibnu</h1>
 <h3 align="center">A Fullstack Web Developer, Play Store Developer.</h3>
@@ -16,7 +28,11 @@ Selamat datang di Akun Github Saya.
 
 - ⚡ Fun fact **I'm an Coding Enthusiast**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnustagnz&show_icons=true)
+<div style="width:50%">
+  <a href="https://github.com/Ibnustagnz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibnustagnz&layout=compact&show_icons=true&theme=vue&hide=html" />
+  </a>
+</div>
 
 ### Keahlian Saya
 
