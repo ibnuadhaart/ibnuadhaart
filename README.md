@@ -20,7 +20,7 @@ Selamat datang di Akun Github Saya.
 
 - 👨‍💻 All of my projects are available at [Play Store](https://play.google.com/store/apps/dev?id=4990134853462111465)
 
-- 📝 I regulary write articles on [https://ibnuadha.blogspot.com](https://ibnuadha.blogspot.com)
+- 📝 I regulary write articles on [https://ibnustagnz.my.id/](www.ibnustagnz.my.id)
 
 - 💬 Ask me about **PHP and Javascript**
 
