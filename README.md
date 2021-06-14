@@ -20,11 +20,11 @@ Selamat datang di Akun Github Saya.
 
 - 👨‍💻 All of my projects are available at [Play Store](https://play.google.com/store/apps/dev?id=4990134853462111465)
 
-- 📝 I regulary write articles on [https://ibnustagnz.my.id/](www.ibnustagnz.my.id)
+- 📝 I regulary write articles on [www.ibnustagnz.my.id](https://ibnustagnz.my.id/)
 
 - 💬 Ask me about **PHP and Javascript**
 
-- 📫 How to reach me **ibnuadhaart@gmail.com**
+- 📫 How to reach me **ibnustagnz@gmail.com**
 
 - ⚡ Fun fact **I'm an Coding Enthusiast**
 
