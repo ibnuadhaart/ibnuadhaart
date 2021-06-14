@@ -54,11 +54,8 @@ Selamat datang di Akun Github Saya.
 ### Kontak Saya Di
 <hr/>
 <a href="https://www.instagram.com/ibnustagnz/">
-  <img align="left" alt="Ibnu Adha | Instagram " width="40px" src="https://1.bp.blogspot.com/-ivwzE-L666s/XruUfFY_ErI/AAAAAAAAAsE/p9NMU38iXScU-oXDjtdH4EripC0XnX3qACLcBGAsYHQ/s1600/IG%2BIcon.png" />
+  <img align="left" alt="Ibnustagnz | Instagram " width="40px" src="https://1.bp.blogspot.com/-ivwzE-L666s/XruUfFY_ErI/AAAAAAAAAsE/p9NMU38iXScU-oXDjtdH4EripC0XnX3qACLcBGAsYHQ/s1600/IG%2BIcon.png" />
 </a>
-<a href="https://www.facebook.com/ibnustagnz">
-  <img align="left" alt="Ibnu Adha | Facebook" width="40px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=6289515256233">
-  <img align="left" alt="Ibnu Adha's Whatsapp" width="40px" src="https://pngimage.net/wp-content/uploads/2018/06/whatsapp-flat-icon-png-5.png" />
+<a href="https://www.facebook.com/ibnustagnzweb">
+  <img align="left" alt="Ibnustagnz | Facebook" width="40px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />
 </a>
