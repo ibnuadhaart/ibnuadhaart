@@ -20,7 +20,7 @@ Selamat datang di Akun Github Saya.
 
 - 👨‍💻 All of my projects are available at [Play Store](https://play.google.com/store/apps/dev?id=4990134853462111465)
 
-- 📝 I regulary write articles on [www.ibnustagnz.my.id](https://ibnustagnz.my.id/)
+- 📝 I regulary write articles on [www.ibnusta.com](https://ibnusta.com/)
 
 - 💬 Ask me about **PHP and Javascript**
 
@@ -53,9 +53,9 @@ Selamat datang di Akun Github Saya.
   
 ### Kontak Saya Di
 <hr/>
-<a href="https://www.instagram.com/ibnustagnz/">
+<a href="https://www.instagram.com/ibnusta_/">
   <img align="left" alt="Ibnustagnz | Instagram " width="40px" src="https://1.bp.blogspot.com/-ivwzE-L666s/XruUfFY_ErI/AAAAAAAAAsE/p9NMU38iXScU-oXDjtdH4EripC0XnX3qACLcBGAsYHQ/s1600/IG%2BIcon.png" />
 </a>
-<a href="https://www.facebook.com/ibnustagnzweb">
+<a href="https://www.facebook.com/ibnustagnz">
   <img align="left" alt="Ibnustagnz | Facebook" width="40px" src="https://image.flaticon.com/icons/png/512/174/174848.png" />
 </a>
